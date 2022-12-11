@@ -1,0 +1,1 @@
+*/1 * * * * python /pnrStatus.py >> /tmp/logfile.log
