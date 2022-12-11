@@ -1,1 +1,1 @@
-*/1 * * * * python /pnrStatus.py >> /tmp/logfile.log
+* */6 * * * python /pnrStatus.py >> /tmp/logfile.log
